@@ -11,5 +11,6 @@ public class practice1Test {
 	System.out.println("practice1");
 	System.out.println("practice2");
 	System.out.println("practice3");
+System.out.println("practice3");
 	}
 }
